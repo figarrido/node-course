@@ -1,0 +1,18 @@
+{
+  "name": "week-1",
+  "version": "1.0.0",
+  "description": "REST API with express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Garrido",
+  "repository": "https://github.com/figarrido/node-course/tree/master/assigments/week-1",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2"
+  }
+}
