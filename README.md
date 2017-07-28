@@ -6,3 +6,6 @@
 * node-express (express module and express Router)
 ### Week 2
 * node-express-gen (express generator)
+* node-mongodb (MongoClient)
+* node-mongoose (mongoose's Schema)
+
