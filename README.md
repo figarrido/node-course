@@ -8,4 +8,5 @@
 * node-express-gen (express generator)
 * node-mongodb (MongoClient)
 * node-mongoose (mongoose's Schema)
-
+### Week 3
+* rest-server (express + mongoose)
