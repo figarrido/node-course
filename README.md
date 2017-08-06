@@ -10,3 +10,4 @@
 * node-mongoose (mongoose's Schema)
 ### Week 3
 * rest-server (express + mongoose)
+* basic-auth (basic authentication over all files)
